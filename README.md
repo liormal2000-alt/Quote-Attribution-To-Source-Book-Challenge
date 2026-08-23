@@ -19,7 +19,7 @@ reasoning, offering a nuanced understanding of their strengths and limitations i
 
 ### Project Report
 
-[View the full project report](docs/project-report.pdf)
+[View the full project report](docs/project_report.pdf)
 
 ## 🔀 Dataset Creation Pipeline 
 
