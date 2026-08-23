@@ -17,6 +17,10 @@ consistent accuracy differences between difficulty levels when tested on real LL
 Overall, this project provides a rigorous and insightful benchmark for evaluating LLMs’ literary knowledge and contextual
 reasoning, offering a nuanced understanding of their strengths and limitations in quote attribution
 
+### Project Report
+
+[View the full project report](docs/project-report.pdf)
+
 ## 🔀 Dataset Creation Pipeline 
 
 Run the file: 
